@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: ja
 defaultContentLanguage: ja
-title: Tatsuya Zetsu | 舌　達也
+title: Tatsuya Zetsu | 舌 達也
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -22,7 +22,7 @@ params:
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  codePenUser: someUser
+  codePenUser: Tatsuya Zetsu
   katex: true
   hideHeaderLinks: false
   search: true
@@ -45,8 +45,20 @@ params:
 menu:
   nav:
     - name: About
-      url: /
+      url: /#about-me
       weight: 1
+    - name: Contact
+      url: /#contact
+      weight: 2
+    - name: Research
+      url: /#research
+      weight: 3
+    - name: Experiences
+      url: /#experiences
+      weight: 4
+    - name: Education
+      url: /#education
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
