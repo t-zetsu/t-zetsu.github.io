@@ -16,10 +16,7 @@ body {
   font-size: 15px
 }
 
-a {
-  text-decoration: none;
-}
-
 .usecolor {
   color: rgb(54, 113, 136);
+  text-decoration: none;
 }
