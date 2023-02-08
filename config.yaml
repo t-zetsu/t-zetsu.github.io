@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://t-zetsu.github.io/
 languageCode: ja
 defaultContentLanguage: ja
 title: Tatsuya Zetsu | 舌 達也
@@ -33,12 +33,10 @@ params:
   logoAlt: An alternative text description of the logo
   customCss:
     - css/custom_01.css
-    - css/custom_02.css
   customJs:
     - js/custom_01.js
-    - js/custom_02.js
   utterances:
-    repo: username/username.github.io
+    repo: t-zetsu/t-zetsu.github.io
     issueTerm: title
     theme: github-light
 
