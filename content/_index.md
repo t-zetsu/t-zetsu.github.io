@@ -40,8 +40,8 @@ __国際会議 (査読あり)__
     <li> Tatsuya Zetsu, Tomoyuki Kajiwara, and Yuki Arase. 2022. 
         <b> Lexically Constrained Decoding with Edit Operation Prediction for Controllable Text Simplification</b>. 
         In <i>Proceedings of the Workshop on Text Simplification, Accessibility, and Readability 
-        (<a href=”https://www.taln.upf.edu/pages/tsar2022-ws/”>TSAR-2022</a>)</i>, pages 147–153 
-        <a href=”https://aclanthology.org/2022.tsar-1.13/”>[paper]</a>
+        (<a href=”/https://www.taln.upf.edu/pages/tsar2022-ws/”>TSAR-2022</a>)</i>, pages 147–153 
+        <a href=”/https://aclanthology.org/2022.tsar-1.13/”>[paper]</a>
     </li>
 </ul>
 
