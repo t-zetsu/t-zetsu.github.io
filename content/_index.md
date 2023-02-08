@@ -33,7 +33,15 @@ draft: false
 <li> 深層学習 </li>
 </ul>
 
-<!-- #### Publications -->
+<a name="publications"></a>
+#### Publications
+__国際会議 (査読あり)__
+<ul style="margin:20px 20px">
+    <li> Tatsuya Zetsu, Tomoyuki Kajiwara, and Yuki Arase. 2022. Lexically Constrained Decoding with Edit Operation Prediction for Controllable Text Simplification. In Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022), pages 147–153
+    </li>
+</ul>
+
+
 <a name="experiences"></a>
 #### Experiences
 __2018-08 ~ 2022-09__
